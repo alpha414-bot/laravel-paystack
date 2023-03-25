@@ -1,5 +1,5 @@
 {
-  "name": "alpha414-bot/laravel-paystack",
+  "name": "unicodeveloper/laravel-paystack",
   "description": "A Laravel Package for Paystack",
   "keywords": [
     "php",
@@ -23,10 +23,6 @@
     {
       "name": "iamfunsho",
       "email": "info@devfunsho.com"
-    },
-    {
-      "name":"alpha",
-      "email": "alphasoft2021@gmail.com"
     }
   ],
   "minimum-stability": "stable",
